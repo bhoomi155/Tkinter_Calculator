@@ -6,6 +6,7 @@
   ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
   ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?style=flat-square)
  <!--- ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square) --->
+ ![image](https://github.com/bhoomi155/Tkinter_Calculator/blob/a246dc1b1f1d21170e289710c2deafcba4f0a603/calc.png)
 
 
 </div>
